@@ -1,0 +1,46 @@
+body {
+  line-height: 1.5;
+  background-color: lightgrey;
+  font-size: 15px;
+  font-family: outfit;
+  margin: auto;
+
+}
+
+div {
+  text-align: center;
+}
+
+h2 {
+  margin: 0px auto 10px;
+  width: 80%;
+  font-weight: 700;
+
+
+}
+
+p{
+  width: 80%;
+  color: grey;
+  margin: 0 auto;
+}
+
+.img {
+  border-radius: 5%;
+  width: 90%;
+  margin: 17px auto 0px auto;
+}
+
+.message {
+  margin: 0 auto;
+
+}
+
+.square {
+  width: 21.875rem;
+  height: 31rem;
+  background: White;
+  border-radius: 5%;
+  display: inline-block;
+  margin-top: 75px;
+}
